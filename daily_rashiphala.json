@@ -1,1 +1,25 @@
-
+{
+  "2026-02-27": {
+    "odia": {
+      "0": {
+        "prediction": "ଆଜିର ଦିନଟି ଅତ୍ୟନ୍ତ ଶୁଭ ରହିବାକୁ ଯାଉଛି। କର୍ମକ୍ଷେତ୍ରରେ ସଫଳତା ମିଳିବ ଏବଂ ଅଟକି ଥିବା କାମ ପୂରଣ ହେବ।",
+        "color": "ଲାଲ୍",
+        "number": "୧, ୮"
+      }
+    },
+    "hindi": {
+      "0": {
+        "prediction": "आज का दिन अत्यधिक शुभ रहने वाला है। कार्यक्षेत्र में सफलता मिलेगी।",
+        "color": "लाल",
+        "number": "1, 8"
+      }
+    },
+    "english": {
+      "0": {
+        "prediction": "Today is going to be a very auspicious day. Success at workplace is assured.",
+        "color": "Red",
+        "number": "1, 8"
+      }
+    }
+  }
+}
